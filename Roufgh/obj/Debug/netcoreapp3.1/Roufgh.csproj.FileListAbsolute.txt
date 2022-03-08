@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\Roufgh\Roufgh\bin\Debug\netcoreapp3.1\Roufgh.exe
+C:\Users\jacob\source\repos\Roufgh\Roufgh\bin\Debug\netcoreapp3.1\Roufgh.deps.json
+C:\Users\jacob\source\repos\Roufgh\Roufgh\bin\Debug\netcoreapp3.1\Roufgh.runtimeconfig.json
+C:\Users\jacob\source\repos\Roufgh\Roufgh\bin\Debug\netcoreapp3.1\Roufgh.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\Roufgh\Roufgh\bin\Debug\netcoreapp3.1\Roufgh.dll
+C:\Users\jacob\source\repos\Roufgh\Roufgh\bin\Debug\netcoreapp3.1\Roufgh.pdb
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.AssemblyInfo.cs
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.dll
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.pdb
+C:\Users\jacob\source\repos\Roufgh\Roufgh\obj\Debug\netcoreapp3.1\Roufgh.genruntimeconfig.cache

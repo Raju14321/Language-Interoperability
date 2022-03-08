@@ -1,0 +1,10 @@
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\bin\Debug\netcoreapp3.1\Roufgh5.deps.json
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\bin\Debug\netcoreapp3.1\Roufgh5.dll
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\bin\Debug\netcoreapp3.1\Roufgh5.pdb
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.vbproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.AssemblyInfo.vb
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.vbproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.dll
+C:\Users\jacob\source\repos\Roufgh\Roufgh5\obj\Debug\netcoreapp3.1\Roufgh5.pdb
